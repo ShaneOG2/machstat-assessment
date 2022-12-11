@@ -34,11 +34,12 @@ To do:
 
 At the start of each Jupyter Notebook I have outlined which libraries I am using. Below is a brief description of each library. 
 
-- `xx` xx. 
-- `xx` xx. 
-- `xx` xx. 
-- `xx` xx. 
-- `xx` xx. 
-- `xx` xx. 
-- `xx` xx. 
-- `xx` xx. 
+- `math` module provides access to the mathematical functions defined by the C standard.. 
+- `itertools` Iterate over data structures that can be stepped over using a for-loop. . 
+- `random` is used to generate random numbers.. 
+- `collections` for specialized container datatypes. 
+- `scipy.stats` module provides large number of probability distributions, summary and frequency statistics, correlation functions and statistical tests etc.. 
+- `numpy` is a library used for working with arrays. It provides a high-performance multidimensional array object, and tools for working with these. 
+- `pandas` data analysis and manipulation tool. 
+- `matplotlib.pyplot` is used for customised data visualisations. 
+- `seaborn` uses matplotlib and is also used for data visualisations. 
