@@ -9,13 +9,12 @@ This repository contains a `Practicals` folder which has two parts:
 1. `Regular Tasks`
 2. `Machine Learning Project Notebook.ipynb`
 
-The `Regular Tasks` contains 5 Jupyter Notebooks, each containing exercises from each topic we explored over the course of the module. 
+The `Regular Tasks` contains 4 Jupyter Notebooks, each containing exercises from each topic we explored over the course of the module. 
 
 - `1-Statistics.ipynb`
 - `2-Models.ipynb`
 - `3-Parameters.ipynb`
-- `4-Learning.ipynb`
-- `5-Evaluation.ipynb`
+- `4-Machine Learning.ipynb`
 
 The `Machine Learning Project Notebook.ipynb` is a Jupyter Notebook contains the my work exploring the Keras time-series anomaly. 
 
@@ -39,7 +38,13 @@ At the start of each Jupyter Notebook I have outlined which libraries I am using
 - `random` is used to generate random numbers.. 
 - `collections` for specialized container datatypes. 
 - `scipy.stats` module provides large number of probability distributions, summary and frequency statistics, correlation functions and statistical tests etc.. 
+- `statsmodels.stats` Alternative statistical package. 
 - `numpy` is a library used for working with arrays. It provides a high-performance multidimensional array object, and tools for working with these. 
 - `pandas` data analysis and manipulation tool. 
 - `matplotlib.pyplot` is used for customised data visualisations. 
+- `matplotlib.ticker` more functionality for matplotlib. 
+- `matplotlib.mdates` more functionality for matplotlib. 
 - `seaborn` uses matplotlib and is also used for data visualisations. 
+- `tensorflow` is a library or machine learning, neural networks and artificial intelligence. 
+- `keras` is similiar to `tensorflow`. 
+- `os` uses operating system dependent functionality. . 
