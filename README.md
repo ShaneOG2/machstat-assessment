@@ -47,4 +47,4 @@ At the start of each Jupyter Notebook I have outlined which libraries I am using
 - `seaborn` uses matplotlib and is also used for data visualisations. 
 - `tensorflow` is a library or machine learning, neural networks and artificial intelligence. 
 - `keras` is similiar to `tensorflow`. 
-- `os` uses operating system dependent functionality. . 
+- `os` uses operating system dependent functionality. 
