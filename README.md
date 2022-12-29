@@ -20,7 +20,7 @@ The `Regular Tasks` folder also contains a `content` and `examples` folder. This
 
 The `Machine Learning Project Notebook.ipynb` is a Jupyter Notebook contains my work exploring the <a href="https://keras.io/examples/timeseries/timeseries_anomaly_detection/" target="_blank">Keras: Time series anomaly detection using an Autoencoder</a> blog post. 
 
-# Intructions to Reader
+# Instructions to Reader
 
 To download and run my Jupyter Notebooks on your local machine: 
 
