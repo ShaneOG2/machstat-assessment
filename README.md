@@ -16,6 +16,8 @@ The `Regular Tasks` contains 4 Jupyter Notebooks, each containing exercises from
 - `3-Parameters.ipynb`
 - `4-Machine Learning.ipynb`
 
+The `Regular Tasks` folder also contains a `content` and `examples` folder. This holds images and data used in the Jupyter Notebooks. 
+
 The `Machine Learning Project Notebook.ipynb` is a Jupyter Notebook contains the my work exploring the <a href="https://keras.io/examples/timeseries/timeseries_anomaly_detection/" target="_blank">Keras: Time series anomaly detection using an Autoencoder</a> blog post. 
 
 # Intructions to Reader
